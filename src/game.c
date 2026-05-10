@@ -1,3 +1,6 @@
-/*
-    game from pc here
-*/
+
+
+int displacement(int (*matrix)[8]){
+
+    
+}
